@@ -1,5 +1,14 @@
 # lab.python
 
+```text
+  o  o
+\______/
+  |
+     |    https://conten.to
+--------
+```
+
+
 Adventures on Python
 
 ## Requirements
